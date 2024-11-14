@@ -1,0 +1,19 @@
+site_name: My Docs
+site_description: "这是一个专注于技术知识分享的文档网站"
+
+theme:
+  name: material
+  features:
+    - toc.integrate
+    - highlightjs
+  palette:
+    primary: "indigo"
+    accent: "light-blue"
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.superfences
+
+
