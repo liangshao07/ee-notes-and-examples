@@ -17,7 +17,7 @@ LEDs (Light Emitting Diodes) are basic and widely used components in electronics
       $$
 
       
-    Where \(V_{supply}\) is your power supply voltage, \(V_{LED}\) is the forward voltage of the LED, and \(I_{LED}\) is the desired current (usually 10-20mA).
+    Where $$V_{supply}$$ is your power supply voltage, $$V_{LED}$$ is the forward voltage of the LED, and $$I_{LED}$$ is the desired current (usually 10-20mA).
 
 ### Common Applications with Arduino, STM32, and ESP32:
 
