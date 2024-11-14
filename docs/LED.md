@@ -11,9 +11,9 @@ LEDs (Light Emitting Diodes) are basic and widely used components in electronics
 3. **Current Limiting Resistor**:
     - Always use a resistor in series with an LED to limit the current. Without this, you risk damaging the LED.
     - To calculate the resistor value:
-    \[
+      $$
     R = \frac{V_{supply} - V_{LED}}{I_{LED}}
-    \]
+      $$
     Where \(V_{supply}\) is your power supply voltage, \(V_{LED}\) is the forward voltage of the LED, and \(I_{LED}\) is the desired current (usually 10-20mA).
 
 ### Common Applications with Arduino, STM32, and ESP32:
