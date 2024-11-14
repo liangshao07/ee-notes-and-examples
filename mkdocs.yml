@@ -1,8 +1,8 @@
-site_name: EE notes and examples
+site_name: EE intro and examples
 site_author: LiangWatcher
 site_description: "这是一个专注于技术知识分享的文档网站"
-repo_name: ee-notes-and-examples
-repo_name: https://github.com/liangshao07/ee-notes-and-examples
+repo_name: ee-intro-and-examples
+repo_name: https://github.com/liangshao07/ee-intro-and-examples
 copyright: Copyright &copy; 2024-present <a href="https://github.com/liangshao07" target="_blank" rel="noopener noreferrer">LiangWatcher</a>
 
 theme:
@@ -62,7 +62,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/liangshao07/ee-notes-and-examples
+      link: https://github.com/liangshao07/ee-intro-and-examples
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -106,4 +106,5 @@ nav:
       - "ESP32-CAM": "硬件模块/ESP32-CAM.md"
   - "examples":
       - "点亮 LED": "examples/LED Blinking.md"
+  - 项目最后: "项目最后.md"
       
