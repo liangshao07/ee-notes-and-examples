@@ -56,9 +56,9 @@ markdown_extensions:
   - footnotes
 
 plugins:
-  -search
-  -minify:
-    minify_html:true
+  - search
+  - minify:
+      minify_html:true
 
 extra:
   social:
