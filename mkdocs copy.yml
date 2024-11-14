@@ -1,4 +1,5 @@
 site_name: EE notes and examples
+site_url: https://liangwatcher.top
 site_author: LiangWatcher
 site_description: "这是一个专注于技术知识分享的文档网站"
 repo_name: ee-notes-and-examples
@@ -8,6 +9,8 @@ copyright: Copyright &copy; 2024-present <a href="https://github.com/liangshao07
 theme:
   name: material
   language: zh
+  favicon: pic/favicon.ico
+  apple-touch-icon-precomposed: pic/mobile_icon.png
   include_search_page: false
   search_index_only: true
  
@@ -61,3 +64,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/liangshao07/ee-notes-and-examples
+  analytics:
+    provider: google
+    property: G-
+ 
+
+
