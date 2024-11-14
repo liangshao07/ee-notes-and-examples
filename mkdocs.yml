@@ -42,6 +42,8 @@ theme:
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
+  custom_dir: overrides
+
 
 markdown_extensions:
   - admonition
@@ -53,9 +55,7 @@ markdown_extensions:
   - footnotes
 
 plugins:
-  -search
-  -minify:
-    minify_html:true
+  - search
 
 extra:
   social:
