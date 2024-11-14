@@ -104,7 +104,7 @@ nav:
       - "ESP32-DevKitC": "硬件模块/ESP32-DevKitC.md"
       - "ESP-12E NodeMCU": "硬件模块/ESP-12E NodeMCU.md"
       - "ESP32-CAM": "硬件模块/ESP32-CAM.md"
-  - "example":
-      - "点亮 LED": "example/LED Blinking.md"
+  - "examples":
+      - "点亮 LED": "examples/LED Blinking.md"
     
 
