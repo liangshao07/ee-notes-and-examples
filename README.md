@@ -1,2 +1,2 @@
-# ee-notes-and-examples
+# ee-intro-and-examples
  
