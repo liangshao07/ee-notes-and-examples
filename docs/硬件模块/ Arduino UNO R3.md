@@ -7,7 +7,7 @@
 - Schematics：https://docs.arduino.cc/resources/schematics/A000066-schematics.pdf
 - CAD Files：https://docs.arduino.cc/static/f70b5045f5f73c41d96e4b12775c31c6/A000066-cad-files.zip
 
-- **EEPROM** 使用：https://docs.arduino.cc/learn/programming/eeprom-guide/
+- EEPROM 使用：https://docs.arduino.cc/learn/programming/eeprom-guide/
 - 官方使用示例：https://docs.arduino.cc/tutorials/uno-rev3/AnalogInput/
 
 ![arduino uno r3](../images/arduino uno r3.png)
